@@ -41,3 +41,5 @@ p_username VARCHAR2(100),
 p_error VARCHAR2(4000));
 --------------------------
 COMMIT;
+----------------------------
+SELECT * FROM SLI_APPS.LOGS;
